@@ -81,4 +81,7 @@ sudo systemctl status smbd
 
 ## Accessing the Shared Folder
 
-Access the shared folder from other devices with smb://<server_ip>/sharedfolder.
+Access the shared folder from other devices with //<server_ip>/sharedfolder.
+
+#### Note:
+The name at the end of the url is the [sharedfolder] in the `smb.conf` file. Not the acutal name of the directory on the system.
