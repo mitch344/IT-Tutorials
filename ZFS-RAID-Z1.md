@@ -1,4 +1,4 @@
-# Creating a ZFS Pool on Ubuntu with RAID-Z1
+# Creating a ZFS Pool with RAID-Z1
 
 Follow these steps to create a ZFS pool with RAID-Z1 redundancy on Ubuntu. RAID-Z1 provides data redundancy and requires a minimum of three drives.
 
