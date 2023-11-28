@@ -1,6 +1,6 @@
 # Samba Server Setup Guide
 
-This guide provides step-by-step instructions for setting up a Samba server on Ubuntu.
+This guide provides step-by-step instructions for setting up a Samba server on Debian based Linux.
 
 ## Steps to Setup Samba
 
