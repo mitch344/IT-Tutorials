@@ -1,5 +1,7 @@
 # IT Tutorials Repository
-
+<p align="center">
+    <img src="switch.jpg" width="300">
+</p>
 Welcome to the IT Tutorials repository! Here, you'll find step-by-step guides and tutorials for setting up various IT-related tasks on Debian-based operating systems. Whether you're a beginner or an experienced user, these tutorials will help you configure your system effectively.
 
 ## Table of Contents
